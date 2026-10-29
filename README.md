@@ -1,2 +1,3 @@
-This repo it's just direct to my portofolio website.
-Thank you for visiting to my portofolio website :).
+# Just Direct To Rifqi Haerulsyah Portfolio Website
+This repository provides a direct link to Rifqi Haerulsyah Portfolio Website.
+Thank you for visiting my portfolio!
